@@ -78,5 +78,5 @@ libraries[ckeditor][directory_name] = "ckeditor"
 ;Features
 libraries[wysiwyg_configuration][download][type] = "git"
 libraries[wysiwyg_configuration][destination] = "modules/features"
-libraries[wysiwyg_configuration][download][url] = "git://github.com/Staris/wysiwyg_configuration.git"
+libraries[wysiwyg_configuration][download][url] = "git://github.com/Staris/wysiwyg_configuration_6.git"
 libraries[wysiwyg_configuration][directory_name] = "wysiwyg_configuration"
