@@ -68,7 +68,6 @@ projects[wysiwyg][version] = "2"
 libraries[htmlpurifier_library][download][type] = "get"
 libraries[htmlpurifier_library][destination] = "modules/standard/htmlpurifier"
 libraries[htmlpurifier_library][download][url] = "http://htmlpurifier.org/releases/htmlpurifier-4.3.0-lite.zip"
-libraries[htmlpurifier_library][directory_name] = "library"
 
 libraries[ckeditor][download][type] = "get"
 libraries[ckeditor][destination] = "libraries"
