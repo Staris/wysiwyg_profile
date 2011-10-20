@@ -65,9 +65,9 @@ projects[wysiwyg][subdir] = "standard"
 projects[wysiwyg][version] = "2"
 
 ;Libraries
-libraries[htmlpurifier_library][download][type] = "git"
+libraries[htmlpurifier_library][download][type] = "get"
 libraries[htmlpurifier_library][destination] = "modules/standard/htmlpurifier"
-libraries[htmlpurifier_library][download][url] = "https://github.com/Staris/htmlpurifier_library.git"
+libraries[htmlpurifier_library][download][url] = "http://htmlpurifier.org/releases/htmlpurifier-4.3.0-lite.zip"
 libraries[htmlpurifier_library][directory_name] = "library"
 
 libraries[ckeditor][download][type] = "get"
